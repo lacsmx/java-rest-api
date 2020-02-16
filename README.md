@@ -1,4 +1,4 @@
-# Everon - Coding assignment Backend - Engineer
+# Coding assignment Backend - Engineer
 
 ============================================================================
 This is my approach to create a REST API to handle charging session entities,  all records are stored in memory.
